@@ -1,0 +1,19 @@
+{
+  "name": "vulpinecat-website",
+  "version": "0.1",
+  "description": "My personal website",
+  "main": "index.js",
+  "repository": "git@github.com:VulpineCat/vulpinecat-website.git",
+  "author": "VulpineCat | Darian <contact@vuplinecat.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.4"
+  }
+}
